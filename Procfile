@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: python chatbot_webhook.py
